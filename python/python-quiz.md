@@ -569,7 +569,7 @@ fruits = {'Apples': 5, 'Oranges': 3, Bananas': 4}
 - [x] `Class methods can modify the state of the class, but they can't directly modify the state of an instance that inherits from that class.`
 - [ ] `A class method is similar to a regular function, but a class method doesn't take any arguments.`
 - [ ] `Class methods hold all of the data for a particular class.`
-#### Q53. describe the functionality of a deque
+#### Q53. describe the functionality of a deque?
 - [ ] `A deque adds items to one side and remove items from the other side.`
 - [x] `A deque adds items at either or both ends, and remove items at either or both ends.`
 - [ ] `A deque adds items to either or both sides, bout only remove items from the top.`
